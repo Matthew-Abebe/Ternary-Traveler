@@ -1,20 +1,56 @@
 {
-    "places": [
-        {
-            "id": 1,
-            "name": "Italy",
-            "visa_required": false
-        },
-        {
-            "id": 2,
-            "name": "Switzerland",
-            "visa_required": true
-        },
-        {
-            "id": 3,
-            "name": "France",
-            "visa_required": false
-        }
-    ],
-    "interests": []
+  "places": [
+    {
+      "id": 1,
+      "name": "Italy",
+      "visa_required": false
+    },
+    {
+      "id": 2,
+      "name": "Switzerland",
+      "visa_required": true
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "visa_required": false
+    }
+  ],
+  "interests": [
+    {
+      "id": 1,
+      "location": "place",
+      "description": "cool"
+    },
+    {
+      "location": "sdf",
+      "description": "sdf",
+      "id": 2
+    },
+    {
+      "location": "sdf",
+      "description": "sdf",
+      "id": 3
+    },
+    {
+      "location": "",
+      "description": "",
+      "id": 4
+    },
+    {
+      "location": "Chicago",
+      "description": "Sears Tower",
+      "id": 5
+    },
+    {
+      "location": "",
+      "description": "",
+      "id": 6
+    },
+    {
+      "location": "China",
+      "description": "Great Wall",
+      "id": 7
+    }
+  ]
 }
